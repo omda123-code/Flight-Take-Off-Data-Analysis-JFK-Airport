@@ -50,32 +50,32 @@ The main objective is to identify **factors influencing flight delays**, evaluat
 ### 📊 Key Visualizations (16 Charts Summary)
 
 #### 🥧 On-time vs Delayed Flights
-![On-time vs Delayed](charts/chart_01_on_time_vs_delayed.png)  
+![On-time vs Delayed](charts/on_time_vs_delayed.png)  
 - On Time: **86.6%**  
 - Delayed: **13.4%**
 
 #### 📈 Average Delay by Day of Week
-![Average Delay by Day](charts/chart_02_avg_delay_by_day.png)  
+![Average Delay by Day](charts/avg_delay_by_weekday.png)  
 - Highest on **Day 6 (~10.2 min)**, lowest on **Day 4 (~3.6 min)**
 
 #### ✈️ Average Delay by Flight Type
-![Delay by Flight Type](charts/chart_03_delay_by_flight_type.png)  
+![Delay by Flight Type](charts/avg_delay_by_flight_type.png)  
 - Short Haul: ~7.8 min  
 - Medium Haul: ~6.7 min  
 - Long Haul: ~5.0 min  
 
 #### 🧭 Average Flight Distance per Carrier
-![Distance per Carrier](charts/chart_04_avg_distance_per_carrier.png)  
+![Distance per Carrier](charts/avg_distance_per_carrier.png)  
 - Longest average distance by **HA (~5000 miles)**  
 - Shortest by **9E (~400 miles)**  
 
 #### 🌆 Top 15 Destinations by Flight Count
-![Top Destinations](charts/chart_05_top_destinations.png)  
+![Top Destinations](charts/flights_per_destination.png)  
 - **LAX:** ~2900 flights  
 - **SFO, BOS, FLL, MCO** follow closely.
 
 #### 🕐 Average Departure Delay per Carrier
-![Delay per Carrier](charts/chart_06_delay_per_carrier.png)  
+![Delay per Carrier](charts/avg_delay_per_carrier.png)  
 - **OO:** Highest delay (~16.5 min)  
 - **HA:** Lowest delay (~0.8 min)
 
