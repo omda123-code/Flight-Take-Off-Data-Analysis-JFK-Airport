@@ -95,20 +95,37 @@ The main objective is to identify **factors influencing flight delays**, evaluat
 
 ---
 
-### 🚧 Power BI Dashboard
-The Power BI dashboard (currently in development) will include:
-- Delay trends by month and carrier  
-- Interactive filters for flight type and weather  
-- Real-time insights for operational performance
+## 🚀 Power BI Flight Performance Dashboard
 
-*(📎 Link to be added soon once published.)*
+An interactive Power BI dashboard that analyzes flight performance, delays, and weather impact across 29K+ flights.  
+The report contains five key pages that provide a complete operational view.
+
+### 1️. Overview
+Highlights total flights, on-time and delay rates, and average delay time.  
+Includes a visual comparison of on-time vs delayed flights and key KPIs for quick insight.
+
+### 2️. Airline Performance
+Compares carriers based on punctuality, flight distance, and departure delay.  
+Displays the best and worst performing airlines through detailed visuals.
+
+### 3️. Time Analysis
+Explores how flight delays vary by day, month, and scheduled hour.  
+Identifies peak delay days and time windows with the highest operational challenges.
+
+### 4️. Weather Impact
+Analyzes how different weather conditions (humidity, pressure, wind) affect flight delays.  
+Highlights the worst weather types impacting performance.
+
+### 5️. Operational Metrics
+Focuses on taxi-out times and their relation to wind speed and destinations.  
+Reveals average and maximum taxi durations and performance insights per airport.
+
 
 ---
 
 ### 🧩 Next Steps
 - Integrate weather-based predictive modeling  
 - Expand data scope to include **arrival delays**  
-- Publish and connect the **Power BI dashboard**  
 
 ---
 
